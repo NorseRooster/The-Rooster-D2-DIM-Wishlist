@@ -1,1 +1,4 @@
-dimwishlist:item=378498222&perks=839105230,1968497646,1820235745,3592538738,2697220197
+title:The Rooster D2 DIM Wishlist
+description:NorseRooster's custom DIM wishlist for Destiny 2.
+//SIDEARMS
+dimwishlist:item=378498222&perks=839105230,1968497646,706527188,3592538738 #notes:PvE. Suros 450 RPM Archetype. Solar DMG. Arrowhead Break. Armor Piercing-Rounds. Quickdraw. Wellspring. Range Masterwork.
